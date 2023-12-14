@@ -1,0 +1,16 @@
+C:\WindowsForms\curso_c\CursoWindowsForm2\CursoWindowsForms2\CursoWindowsForms2\bin\Debug\CursoWindowsForms2.exe.config
+C:\WindowsForms\curso_c\CursoWindowsForm2\CursoWindowsForms2\CursoWindowsForms2\bin\Debug\CursoWindowsForms2.exe
+C:\WindowsForms\curso_c\CursoWindowsForm2\CursoWindowsForms2\CursoWindowsForms2\bin\Debug\CursoWindowsForms2.pdb
+C:\WindowsForms\curso_c\CursoWindowsForm2\CursoWindowsForms2\CursoWindowsForms2\obj\Debug\CursoWindowsForms2.csproj.AssemblyReference.cache
+C:\WindowsForms\curso_c\CursoWindowsForm2\CursoWindowsForms2\CursoWindowsForms2\obj\Debug\CursoWindowsForms2.Properties.Resources.resources
+C:\WindowsForms\curso_c\CursoWindowsForm2\CursoWindowsForms2\CursoWindowsForms2\obj\Debug\CursoWindowsForms2.csproj.GenerateResource.cache
+C:\WindowsForms\curso_c\CursoWindowsForm2\CursoWindowsForms2\CursoWindowsForms2\obj\Debug\CursoWindowsForms2.csproj.CoreCompileInputs.cache
+C:\WindowsForms\curso_c\CursoWindowsForm2\CursoWindowsForms2\CursoWindowsForms2\obj\Debug\CursoWindowsForms2.exe
+C:\WindowsForms\curso_c\CursoWindowsForm2\CursoWindowsForms2\CursoWindowsForms2\obj\Debug\CursoWindowsForms2.pdb
+C:\WindowsForms\curso_c\CursoWindowsForm2\CursoWindowsForms2\CursoWindowsForms2\obj\Debug\CursoWindowsForms2.Frm_HelloWorld.resources
+C:\WindowsForms\curso_c\CursoWindowsForm2\CursoWindowsForms2\CursoWindowsForms2\obj\Debug\CursoWindowsForms2.Frm_DemonstracaoKey.resources
+C:\WindowsForms\curso_c\CursoWindowsForm2\CursoWindowsForms2\CursoWindowsForms2\obj\Debug\CursoWindowsForms2.Frm_ValidaSenha.resources
+C:\WindowsForms\curso_c\CursoWindowsForm2\CursoWindowsForms2\CursoWindowsForms2\obj\Debug\CursoWindowsForms2.Frm_Mascara.resources
+C:\WindowsForms\curso_c\CursoWindowsForm2\CursoWindowsForms2\CursoWindowsForms2\obj\Debug\CursoWindowsForms2.Frm_ValidaCPF.resources
+C:\WindowsForms\curso_c\CursoWindowsForm2\CursoWindowsForms2\CursoWindowsForms2\obj\Debug\CursoWindowsForms2.Frm_ValidaCPF2.resources
+C:\WindowsForms\curso_c\CursoWindowsForm2\CursoWindowsForms2\CursoWindowsForms2\obj\Debug\CursoWindowsForms2.Frm_Principal.resources
